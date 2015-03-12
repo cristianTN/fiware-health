@@ -10,7 +10,7 @@
     "region_configuration": {
         "external_network_name": {
             "Spain": "net8300",
-            "Trento": "ext-net",
+            "Trento": "public-ext-net-01",
             "Lannion": "public-ext-net-02",
             "Waterford": "public-ext-net-01",
             "Berlin": "ext-net-federation",
